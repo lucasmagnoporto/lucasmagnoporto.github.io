@@ -3,8 +3,6 @@
 
 I am a passionate Design and Law researcher. I received by doctoral degree in Law and I have two BSc degrees: in Law and Socio-environmental Science, all of them at UFMG (Universidade Federal de Minas Gerais). My research interests are: behavioral design and digital plataforms/Artificial Intelligence (AI) regulation.
 
-![<lucasmagnoporto>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 📝 I write in-depth, long-form articles on behavioral design and law on my website.
@@ -22,11 +20,6 @@ I am a passionate Design and Law researcher. I received by doctoral degree in La
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
-
-
- ## 🏆 Achievements
-
-- 🌟 
 
 
 ## 📬 Get in Touch
