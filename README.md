@@ -10,16 +10,14 @@ I am a passionate Design and Law researcher. I received by doctoral degree in La
 - ✍️ I am open to research collaborations.
 
 ## My Articles
-- [Epistemological and ethical reflections on artificial intelligence as an area of cognitive computing]([https://periodicos.ufmg.br/index.php/revistadaufmg/article/view/47723])
-- [SMART CONTRACTS ON THE BLOCKCHAIN: VALIDITY AND RESTRICTIONS]([[https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained](https://revistas.ufrj.br/index.php/rjur/article/view/44806#:~:text=CONTRATOS%20INTELIGENTES%20NA%20BLOCKCHAIN%3A%20VALIDADE%20E%20RESTRI%C3%87%C3%95ES,-Autores&text=Da%20leitura%20de%20suas%20caracter%C3%ADsticas,irreversibilidade%20dos%20ajustes%20contratuais%20programados])
-
-
-## Tech Stack
-[![My Skills]
+- [Epistemological and ethical reflections on artificial intelligence as an area of cognitive computing](https://periodicos.ufmg.br/index.php/revistadaufmg/article/view/47723)
+- [SMART CONTRACTS ON THE BLOCKCHAIN: VALIDITY AND RESTRICTIONS](https://revistas.ufrj.br/index.php/rjur/article/view/44806#:~:text=CONTRATOS%20INTELIGENTES%20NA%20BLOCKCHAIN%3A%20VALIDADE%20E%20RESTRI%C3%87%C3%95ES,-Autores&text=Da%20leitura%20de%20suas%20caracter%C3%ADsticas,irreversibilidade%20dos%20ajustes%20contratuais%20programados)
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Digital platforms and Anthropomorfizing of AI
+- 🚀 Addictive design techniques and regulation proposals
+- 🚀 Manipulative design techniques and regulation proposals
 
 
 ## 📬 Get in Touch
