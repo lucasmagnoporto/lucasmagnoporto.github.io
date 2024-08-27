@@ -1,5 +1,5 @@
 # Hi, I'm LUCAS MAGNO PORTO! 👋
-
+![image](https://drive.google.com/uc?export=view&id=1MOs0R34XW4reOKtQ5u9B1wOrIzkNKr75)
 I am a passionate **Design and Law researcher**. I received by **doctoral degree** in **Law** and I have **two BSc degrees**: in _Law and Socio-environmental Science_, all of them at UFMG (Universidade Federal de Minas Gerais, Brazil). My research interests are: behavioral design and digital plataforms/Artificial Intelligence (AI) regulation.
 
 ## 🚀 About Me
