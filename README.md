@@ -1,5 +1,5 @@
 # lucasmagnoporto.github.io
-# Hi, I'm <LUCAS MAGNO DE OLIVEIRA PORTO>! 👋
+# Hi, I'm LUCAS MAGNO DE OLIVEIRA PORTO! 👋
 
 I am a passionate Design and Law researcher. I received by doctoral degree in Law and I have two BSc degrees: in Law and Socio-environmental Science, all of them at UFMG (Universidade Federal de Minas Gerais). My research interests are: behavioral design and digital plataforms/Artificial Intelligence (AI) regulation.
 
